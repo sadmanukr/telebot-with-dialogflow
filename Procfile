@@ -1,0 +1,1 @@
+worker: python one_bot.py $PORT
