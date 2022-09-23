@@ -14,7 +14,7 @@ googleapis-common-protos==1.6.0
 grpcio==1.21.1
 idna==2.6
 numpy==1.16.4
-protobuf==3.8.0
+protobuf==3.18.3
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
 pycparser==2.19
